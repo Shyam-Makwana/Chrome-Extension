@@ -5,6 +5,10 @@ let link = `https://api.dictionaryapi.dev/api/v2/entries/en_US/${wordGot}`;
 async function getMeaning(url) {
     const response = await fetch(url);
 	let data = await response.json();
+    if(data.hasOwnProperty('message')){
+        document.getElementById('notfound').innerHTML = data.message;
+        return;
+    }
     data = data[0].meanings;
     data = data[0].definitions;
     data = data[0].definition;
