@@ -11,5 +11,3 @@ To use Extensions in Chrome, you need to add this extension.
 3. In the address bar on a new tab, type **chrome://extensions** to open the Extensions page. Select the **Developer mode** check box to enable loading extensions from a folder.
 
 4. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
-
-![alt text](https://res.cloudinary.com/wdwfsdp/image/upload/v1619887960/final_608d86cf2a372700934bad35_676572_m192n7.gif)
