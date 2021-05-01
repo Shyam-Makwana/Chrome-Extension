@@ -12,4 +12,4 @@ To use Extensions in Chrome, you need to add this extension.
 
 4. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
 
-![alt text](https://res.cloudinary.com/wdwfsdp/image/upload/v1619887594/1_SoyYgU9r51BCzfHD3rG8Ow_tbsgnr.gif)
+![alt text](https://res.cloudinary.com/wdwfsdp/image/upload/v1619887960/final_608d86cf2a372700934bad35_676572_m192n7.gif)
